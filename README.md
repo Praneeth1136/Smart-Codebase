@@ -57,7 +57,7 @@ GITHUB_CLIENT_SECRET=your_github_client_secret
 # Google Gemini API Key
 GEMINI_API_KEY=your_gemini_api_key
 3. Acquiring Credentials
-GitHub Credentials:
+GitHub Credentials::
 
 Go to your GitHub Settings > Developer settings > OAuth Apps.
 
